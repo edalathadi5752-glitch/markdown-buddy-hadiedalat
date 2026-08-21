@@ -1,0 +1,42 @@
+---
+title: "R Script Documentation"
+author: "Hadi Edalat"
+output: html_document
+---
+
+# Purpose
+
+This script demonstrates a simple data analysis workflow in R using a synthetic dataset.
+
+# Inputs
+
+The script creates a small dataset containing student names and scores.
+
+# Processing Steps
+
+1. Load required packages
+2. Create a sample dataset
+3. Generate summary statistics
+4. Export results to a CSV file
+
+# Code Example
+
+```{r}
+library(tidyverse)
+
+data <- data.frame(
+  Name = c("A", "B", "C", "D"),
+  Score = c(80, 90, 75, 85)
+)
+
+summary(data)
+```
+
+# Outputs
+
+- Summary statistics
+- summary_results.csv
+
+# Notes
+
+This project uses synthetic data for educational purposes.
