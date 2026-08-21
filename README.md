@@ -85,4 +85,6 @@ Microsoft Copilot
 
 ### AI Assistance Declaration
 
-I used Microsoft Copilot for documentation drafting, formatting suggestions, and README organization. I reviewed and validated all generated content before submission. I am responsible for the accuracy and originality of this work.
+AI Assistance Declaration
+
+I used Microsoft Copilot for README development, R Markdown documentation, formatting suggestions, and documentation improvement. Prompts used included generating README sections, improving Markdown formatting, organizing R Markdown content, and reviewing readability. I verified outputs using GitHub Markdown preview, manual review, and comparison with course requirements. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
